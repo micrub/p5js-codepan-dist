@@ -1,0 +1,3 @@
+webpackJsonp([24],{109:/*!******************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/boilerplates/p5/codepan.js ***!
+  \******************************************************************//*! dynamic exports provided *//*! all exports used */function(a){a.exports="const W = H = 400;\nfunction setup() {\n  createCanvas(W, H);\n  background(0);\n}\nfunction draw() {\n  const middle = W/2;\n  const diameter = 10;\n  circle(middle,middle,diameter);\n}\n"}});
